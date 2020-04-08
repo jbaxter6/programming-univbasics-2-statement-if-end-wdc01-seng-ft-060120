@@ -1,4 +1,5 @@
-# Write your solution here
+# first get your current Time
+
 current_time = Time.now 
 current_time = current_time.to_i
 

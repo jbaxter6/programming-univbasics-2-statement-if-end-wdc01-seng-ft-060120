@@ -1,5 +1,5 @@
 # Write your solution here
-current_time = Time.to;
+current_time == Time.to_i;
 if current_time == even?
   put "Even!"
 else
